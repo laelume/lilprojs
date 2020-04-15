@@ -1,2 +1,2 @@
 # lilprojs
-demos and examples of various tiny projects ;)
+Games, Demos, Tiny Projects, Snippets, and Sketches!
